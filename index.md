@@ -36,7 +36,7 @@ If you build a search string that you use often (like a "Community Day Cleanup" 
 ---
 
 ## 4. Custom Tags
-Games often let you create your own custom tags (e.g., "GymDefenders", "ToEvolve"). GOHelper lets you integrate these into your search strings.
+Games often let you create your own custom tags (e.g., "BaseDefenders", "ToUpgrade"). GOHelper lets you integrate these into your search strings.
 
 1. Go to the **Tags** tab.
 2. Scroll to the bottom to the "Custom Tags" section.
