@@ -10,9 +10,11 @@ GOHelper ("the App") is provided as a utility for players of mobile games. This 
 **On-Device Data Storage:** Any data you create within the App—including saved search presets, custom tags, and appraisal settings—is stored **locally on your device** using an internal database (Isar). This data is not transmitted to our servers or any third parties.
 
 ## 2. Third-Party Services
-The App fetches publicly available game data (such as current Raid Boss rotations and game statistics) from external URLs (GitHub/JSON repositories). 
-*   These requests do not include any personal information about you.
-*   The App does not use third-party analytics (like Google Analytics) or advertising networks.
+The App fetches publicly available game data (such as current Boss rotations and game statistics) from external URLs (GitHub/JSON repositories). These requests do not include any personal information about you.
+
+**Advertising:** We use **Google AdMob** to display non-intrusive banner ads. Google AdMob may collect and use advertising identifiers (such as the Google Advertising ID on Android) and other device data to serve personalized ads. 
+*   You can learn more about how Google uses data at [Google's Privacy & Terms](https://policies.google.com/technologies/partner-sites).
+*   You can opt out of personalized advertising through your device's settings (e.g., "Opt out of Ads Personalization" on Android).
 
 ## 3. GDPR and User Rights
 Under the GDPR, users have the right to access, rectify, or erase their data. Since all data is stored locally on your device:

@@ -1,6 +1,6 @@
-# GOHelper — User Manual
+# GOmpanion — User Manual
 
-Welcome to GOHelper! This tool is designed to help you build complex search strings and prepare for boss battles in your mobile collection game without needing to memorize complicated syntax. 
+Welcome to GOmpanion! This tool is designed to help you build complex search strings and prepare for boss battles in your mobile collection game without needing to memorize complicated syntax. 
 
 Here is everything you need to know to get the most out of the app.
 
@@ -36,7 +36,7 @@ If you build a search string that you use often (like a "Community Day Cleanup" 
 ---
 
 ## 4. Custom Tags
-Games often let you create your own custom tags (e.g., "BaseDefenders", "ToUpgrade"). GOHelper lets you integrate these into your search strings.
+Games often let you create your own custom tags (e.g., "BaseDefenders", "ToUpgrade"). GOmpanion lets you integrate these into your search strings.
 
 1. Go to the **Tags** tab.
 2. Scroll to the bottom to the "Custom Tags" section.
@@ -69,3 +69,22 @@ The **Raid Prep** tab automatically updates from the cloud to show you the curre
 2. The app will immediately generate the perfect search string to find your best counters against that specific boss.
 3. Scroll down to see the **Top 30 Counters** calculated by an independent simulator.
 4. You can toggle between **Level 40** and **Level 50** counter lists, as well as **Standard** (no dodging) vs **Dodging** simulation strategies.
+
+---
+
+## 8. Team GO Rocket Battles
+The **Rocket** tab provides perfect counter lineups against all active Team GO Rocket Grunts and Leaders.
+
+1. Select a Rocket member from the list (categorized by type or Leader name).
+2. The app dynamically builds a perfect search string to find counters for the specific lineup of monsters that Rocket member uses.
+3. The app simulates the battles and shows the top 30 recommended counters overall, including their optimal fast and charge moves.
+4. You can also view the specific weaknesses for each of the 3 slots in the Rocket's lineup.
+
+---
+
+## 9. Dynamax & Gigantamax
+The **Dynamax** tab is dedicated to the new Max Battles.
+
+1. It lists current active Dynamax and Gigantamax bosses.
+2. Selecting a boss generates a search string to find your best Dynamax-capable counters.
+3. Below the search string, you can see the top simulated counters specifically optimized for Max Battles, taking into account Max Moves and survival rates.
