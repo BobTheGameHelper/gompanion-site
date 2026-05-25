@@ -1,8 +1,8 @@
-# Privacy Policy for GOHelper
+# Privacy Policy for GOmpanion
 
 **Last Updated:** April 30, 2026
 
-GOHelper ("the App") is provided as a utility for players of mobile games. This Privacy Policy explains how we handle information when you use the App.
+GOmpanion ("the App") is provided as a utility for players of mobile games. This Privacy Policy explains how we handle information when you use the App.
 
 ## 1. Information Collection and Use
 **No Personal Data Collection:** The App does not require you to create an account, provide an email address, or share any personal identifying information (PII). 
